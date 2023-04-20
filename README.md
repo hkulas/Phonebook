@@ -11,4 +11,4 @@ It serves as a program to save and search contacts.
 [search] Enter action ([number], back, again): 
 ```
 
-The [number] option takes a number for example: 1.
+The **[number]** option takes a number for example: 1.
